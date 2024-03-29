@@ -1,2 +1,1 @@
-# html
-<p>heloo</p>
+in this we will see the code of bmi calculator
